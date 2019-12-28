@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio
+http://lb.kstream.org/aovivo/SD_GLOBO_RJ/video.m3u8?token=4e940899bf748ee15ca689d872068ba4
+#EXTINF:-1 type="stream" tvg-id="Band HD" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band
+https://awsclo.azureedge.net/hls1/band.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2
+https://awsclo.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT
+https://awsclo.azureedge.net/hls1/sbt.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Record RJ HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record RJ HD
+https://awsclo.azureedge.net/hls1/recordsp.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel
+https://awsclo.azureedge.net/hls1/warner.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
+https://awsclo.azureedge.net/hls1/fox.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
+https://awsclo.azureedge.net/hls1/aie.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports
+https://awsclo.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
+https://awsclo.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
+https://awsclo.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3
+https://awsclo.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
+https://awsclo.azureedge.net/hls1/combate.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
+https://awsclo.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2
+https://awsclo.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3
+https://awsclo.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere 4" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4
+https://awsclo.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere 5" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5
+https://awsclo.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere 6" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6
+https://awsclo.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7
+https://awsclo.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
+https://awsclo.azureedge.net/hls1/espn.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
+https://awsclo.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
+https://awsclo.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
+https://awsclo.azureedge.net/hls1/espnextra.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+https://awsclo.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+https://awsclo.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png" group-title="Entretenimento e Musica",Multishow
+https://awsclo.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="ID" tvg-logo="https://i.ibb.co/GkCFcmY/investigationb.png" group-title="Documentario",ID
+https://awsclo.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Filme e Serie",Comedy Central
+https://awsclo.azureedge.net/hls1/comedycentral.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Terra Viva" tvg-logo="https://i.ibb.co/3dfhpY0/terraviva.png" group-title="TV Aberta",Terra Viva
+https://awsclo.azureedge.net/hls1/viva.m3u8?wmsAuthSign=
